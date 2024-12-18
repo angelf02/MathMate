@@ -4,10 +4,10 @@ theme:
   name: material
   palette:
     primary: red
-    accent: blue-grey
+    accent: brown
 
 nav:
-  - Inicio: index.md
+  - Inicio: inicio/inicio.md
   - Nosotros: nosotros.md
   - Integrantes: integrantes/integrantes.md
   - Contacto: contacto.md

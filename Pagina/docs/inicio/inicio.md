@@ -8,7 +8,3 @@
 
 ---
 
-<video controls width="600">
-    <source src="inicio/logo.mp4" type="video/mp4">
-    navegador mae
-</video>

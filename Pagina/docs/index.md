@@ -4,8 +4,12 @@
 Tutorias Math Mate
 </div>
 
+<div style="text-align: center; font-size: 12px;">
+De estudiantes, para estudiantes.
+</div>
 
----
+
+
 
 <div style="text-align: center;">
     <video autoplay muted playsinline>
@@ -14,11 +18,6 @@ Tutorias Math Mate
     </video>
 </div>
 
----
-
-<div style="text-align: center; font-size: 24px;">
-De estudiantes, para estudiantes.
-</div>
 
 
 

@@ -1,6 +1,6 @@
 site_name: Math Mate
 nav:
-  - Inicio: inicio.md
+  - Inicio: inicio/inicio.md
   - Nosotros: nosotros.md
   - Integrantes: integrantes/integrantes.md
   - Contacto: contacto.md

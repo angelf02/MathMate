@@ -1,0 +1,23 @@
+site_name: Math Mate
+nav:
+  - Inicio: inicio.md
+  - Nosotros: nosotros.md
+  - Integrantes: integrantes/integrantes.md
+  - Contacto: contacto.md
+
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: blue-grey
+  features:
+    - content.code.copy
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+
+
+

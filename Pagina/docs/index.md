@@ -1,20 +1,17 @@
-# Tutorias Math Mate
-
----
-
-**De estudiantes, para estudiantes.**
-
-![Descripción de la imagen](logo.png)
-
----
-
-
-<div style="text-align: center;">
-    <video autoplay muted playsinline>
-        <source src="logo.mp4" type="video/mp4">
-        navvvv
-    </video>
+<div style="text-align: center; font-size: 32px;">
+**Tutorias Math Mate**
 </div>
 
 
-ahora?
+---
+
+sin  video
+
+---
+
+<div style="text-align: center; font-size: 24px;">
+**De estudiantes, para estudiantes.**
+</div>
+
+
+

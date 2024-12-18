@@ -7,7 +7,7 @@ theme:
     accent: brown
 
 nav:
-  - Inicio: inicio/inicio.md
+  - Inicio: index.md
   - Nosotros: nosotros.md
   - Integrantes: integrantes/integrantes.md
   - Contacto: contacto.md

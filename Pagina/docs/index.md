@@ -9,7 +9,7 @@
 ---
 
 <video controls width="600">
-    <source src="inicio/logo.mp4" type="video/mp4">
+    <source src="logo.mp4" type="video/mp4">
     Tu navegador no soporta la reproduccion de videos
 </video>
 

@@ -11,13 +11,6 @@ De estudiantes, para estudiantes.
 
 
 
-<div style="text-align: center; margin: 0; padding: 0; border: none;">
-    <video autoplay muted playsinline style="display: block; margin: 0; padding: 0; border: none;">
-        <source src="logo.mp4" type="video/mp4">
-        navvvv
-    </video>
-</div>
-
 
 
 

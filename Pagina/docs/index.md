@@ -9,9 +9,12 @@
 ---
 
 
+<div style="text-align: center;">
+    <video autoplay muted playsinline>
+        <source src="logo.mp4" type="video/mp4">
+        navvvv
+    </video>
+</div>
 
-para control
-ya?
 
-
-aaaag
+ahora?

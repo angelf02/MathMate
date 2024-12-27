@@ -8,7 +8,7 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Nosotros: nosotros.md
+  - Nosotros: nosotros1.md
   - Integrantes: integrantes/integrantes.md
   - Contacto: contacto.md
 

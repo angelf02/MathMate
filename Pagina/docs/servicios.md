@@ -4,7 +4,7 @@ En Math Mate, somos un equipo de estudiantes de física comprometidos con el apr
 
 Nos especializamos en ofrecer tutorías individuales y grupales adaptadas a las necesidades de cada estudiante, en diversos niveles:
 
-* Secundaria y primaria: Entendemos los retos que enfrenta el sistema educativo actual y el impacto que esto tiene en los estudiantes. Por ello, nos comprometemos a ayudarle a nuestros alumnos a consolidar las bases necesarias en matemáticas y física.
+* Secundaria: Entendemos los retos que enfrenta el sistema educativo actual y el impacto que esto tiene en los estudiantes. Por ello, nos comprometemos a ayudarle a nuestros alumnos a consolidar las bases necesarias en matemáticas y física.
 
 * Exámenes de admisión a universidades: Como estudiantes de la UCR, comprendemos a fondo el proceso de admisión. Para asegurar que afrontes los exámenes con confianza, ofrecemos preparación específica para:
     - PAA (Prueba de Aptitud Académica): Requisito esencial para la admisión a la UCR y la UNA, donde trabajamos en fortalecer habilidades de razonamiento verbal y matemático.

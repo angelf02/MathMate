@@ -1,4 +1,4 @@
-# Nosotros
+# Nuestros servicios
 
 En Math Mate, somos un equipo de estudiantes de física comprometidos con el aprendizaje y la enseñanza. Nos apasiona compartir nuestros conocimientos en matemáticas y física para ayudar a otros a alcanzar sus metas académicas. 
 

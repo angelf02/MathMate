@@ -6,10 +6,9 @@ Nos especializamos en ofrecer tutorías individuales y grupales adaptadas a las 
 
 * Secundaria y primaria: Entendemos los retos que enfrenta el sistema educativo actual y el impacto que esto tiene en los estudiantes. Por ello, nos comprometemos a ayudarle a nuestros alumnos a consolidar las bases necesarias en matemáticas y física.
 
-* Exámenes de admisión a universidades: Como estudiantes de la UCR, comprendemos a fondo el proceso de admisión. Ofrecemos preparación específica para:
+* Exámenes de admisión a universidades: Como estudiantes de la UCR, comprendemos a fondo el proceso de admisión. Para asegurar que afrontes los exámenes con confianza, ofrecemos preparación específica para:
     - PAA (Prueba de Aptitud Académica): Requisito esencial para la admisión a la UCR y la UNA, donde trabajamos en fortalecer habilidades de razonamiento verbal y matemático.
     - PHC (Prueba de Habilidades Cuantitativas): Preparación especializada para esta prueba que es requisito especial en ciertas carreras de la UCR.
-Para asegurar que afrontes los exámenes con confianza. 
 
 * Preparación universitaria: Tutorías en:
     - Álgebra lineal 

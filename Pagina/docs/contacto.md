@@ -4,4 +4,6 @@ Si tienes preguntas o deseas más información sobre nuestras tutorías, no dude
 
 * Whatsapp: 8686-9666
 * Correo electrónico: mathmate0103@gmail.com 
-* Formulario de contacto: https://forms.gle/ytuDvZeQ3oMMjx4E7 
+* Formulario de contacto: <a href="https://forms.gle/ytuDvZeQ3oMMjx4E7">Google forms</a>
+
+

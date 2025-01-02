@@ -3,8 +3,11 @@ site_name: Math Mate
 theme:
   name: material
   palette:
-    primary: red
-    accent: brown
+    primary: deep-purple
+    accent: light-blue
+  font:
+    text: "Roboto"
+    code: "Fira Code"
 
 nav:
   - Inicio: index.md
@@ -17,9 +20,21 @@ use_directory_urls: false
 plugins:
   - mkdocstrings
   - search
+#  - material-extensions
+#  - awesome-pages
+  - minify
+  - sitemap
+
+extra:
+  favicon: images/favicon.ico
 
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/17.5.0/lazyload.min.js
+
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap
+  - https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 markdown_extensions:
   - mdx_math

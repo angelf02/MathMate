@@ -22,8 +22,8 @@ plugins:
   - search
 #  - material-extensions
 #  - awesome-pages
-  - minify
-  - sitemap
+#  - minify
+#  - sitemap
 
 extra:
   favicon: images/favicon.ico

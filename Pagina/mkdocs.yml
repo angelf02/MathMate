@@ -3,8 +3,8 @@ site_name: Math Mate
 theme:
   name: material
   palette:
-    primary: brown
-    accent: grey
+    primary: red
+    accent: deep-purple
   font:
     text: "Poppins"
     code: "Fira Code"

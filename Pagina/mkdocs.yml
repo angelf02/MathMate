@@ -3,10 +3,10 @@ site_name: Math Mate
 theme:
   name: material
   palette:
-    primary: deep-purple
-    accent: light-blue
+    primary: red
+    accent: green
   font:
-    text: "Roboto"
+    text: "Poppins"
     code: "Fira Code"
 
 nav:

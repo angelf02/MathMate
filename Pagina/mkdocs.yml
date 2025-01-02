@@ -4,7 +4,7 @@ theme:
   name: material
   palette:
     primary: red
-    accent: brown
+    accent: orange
   font:
     text: "Poppins"
     code: "Fira Code"
